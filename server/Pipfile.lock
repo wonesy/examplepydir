@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "1f1599a74fc3a8d109d51f23183747ee1e85a507bfda3c9ddbb4fba0e443a1ed"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "fruit": {
+            "hashes": [
+                "sha256:fe08b5eeb98a59ec715dee80c959f9183597cd08e647c2a3b74f004e8c23ae33"
+            ],
+            "path": "./../fruit/dist/fruit-0.0.1-py3-none-any.whl",
+            "version": "==0.0.1"
+        }
+    },
+    "develop": {}
+}

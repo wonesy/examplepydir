@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/fruit/__init__.py
+src/fruit.egg-info/PKG-INFO
+src/fruit.egg-info/SOURCES.txt
+src/fruit.egg-info/dependency_links.txt
+src/fruit.egg-info/top_level.txt
+src/fruit/apple/__init__.py
+src/fruit/apple/apple.py
+src/fruit/banana/__init__.py
+src/fruit/banana/banana.py
+src/fruit/banana/peeler/__init__.py
+src/fruit/banana/peeler/peeler.py
